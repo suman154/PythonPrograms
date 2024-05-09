@@ -1,7 +1,7 @@
 # PythonPrograms
 * Python Programming: From Basics to Mastery
 
-Python Programming Topics :
+* Python Programming Topics :
 * Basic Programs
 1. Python program to add two numbers
 2. Maximum of two numbers in Python
@@ -197,22 +197,22 @@ Python Programming Topics :
 2. Python program to Count Uppercase, Lowercase, special character and numeric values using Regex
 3. Python Program to find the most occurring number in a string using Regex
 4. Python Regex to extract maximum numeric value from a string
-Python Program to put spaces between words starting with capital letters using Regex
-Python – Check whether a string starts and ends with the same character or not
-Python regex to find sequences of one upper case letter followed by lower case letters
-Python Program to Remove duplicate words from Sentence
-Python | Remove all characters except letters and numbers
-Python Regex | Program to accept string ending with alphanumeric character
-Python Regex – Program to accept string starting with vowel
-Python Program to check if a string starts with a substring using regex
-Python Program to Check if an URL is valid or not using Regular Expression
-Parsing and Processing URL using Python – Regex
-Python Program to validate an IP address using ReGex
-Python Program to Check if email address valid or not
-Python program to find files having a particular extension using RegEx
-Python program to extract IP address from file
-Python program to check the validity of a Password
-Categorize Password as Strong or Weak using Regex in Python
+5. Python Program to put spaces between words starting with capital letters using Regex
+6. Python – Check whether a string starts and ends with the same character or not
+7. Python regex to find sequences of one upper case letter followed by lower case letters
+8. Python Program to Remove duplicate words from Sentence
+9. Python | Remove all characters except letters and numbers
+10. Python Regex | Program to accept string ending with alphanumeric character
+11. Python Regex – Program to accept string starting with vowel
+12. Python Program to check if a string starts with a substring using regex
+13. Python Program to Check if an URL is valid or not using Regular Expression
+14. Parsing and Processing URL using Python – Regex
+15. Python Program to validate an IP address using ReGex
+16. Python Program to Check if email address valid or not
+17. Python program to find files having a particular extension using RegEx
+18. Python program to extract IP address from file
+19. Python program to check the validity of a Password
+20. Categorize Password as Strong or Weak using Regex in Python
 
 * File Handling Programs
 1. Python program to read file word by word
